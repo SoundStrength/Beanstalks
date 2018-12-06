@@ -88,9 +88,15 @@
     background-color: 	#8fb9ff;
 }
 
-body {
+.majorBack {
+    height: 100vh;
     background-image: 	url("../images/background.png");
     font-family: 'VT323', monospace;
+}
+
+.minorBack {
+  background-image: 	url("../images/background-minor.png");
+  font-family: 'VT323', monospace;
 }
 
 b {
@@ -104,6 +110,7 @@ b {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }  
 
 #leftalign {
