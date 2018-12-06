@@ -1,4 +1,9 @@
 .question {
     background-color: aquamarine;
     padding: 20px;
+    cursor: pointer;
+}
+
+.question:hover {
+    background-color: blue;
 }
