@@ -12,8 +12,8 @@
             new Route('story-two', 'story-two.html'),
             new Route('story-three', 'story-three.html'),
             new Route('choices-one', 'choices-one.html'),
-            new Route('choices-one', 'choices-two.html'),
-            new Route('choices-one', 'choices-three.html'),
+            new Route('choices-two', 'choices-two.html'),
+            new Route('choices-three', 'choices-three.html'),
             new Route('choice-result', 'choice-result.html'),
             new Route('about', 'about.html')
         ]);
