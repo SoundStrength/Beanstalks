@@ -103,6 +103,15 @@
   padding-bottom: 60px;
 }
 
+
+.story1Back {
+  height: 100%;
+  min-height: 100vh;
+  background-image: 	url("../images/story1.png");
+  font-family: 'VT323', monospace;
+  padding-bottom: 60px;
+}
+
 b {
    font-size: 200%; 
 }
