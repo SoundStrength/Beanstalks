@@ -172,6 +172,17 @@ a:hover {
   border-radius: 30px!important;
 }
 
+.button-med {
+  width: 100%;
+  padding: 20px!important;
+  border: 5px solid #444!important;
+  border-radius: 30px!important;
+}
+
+.button-med > h3 {
+  margin: -15px;
+}
+
 .button-max > h1 {
   margin: -29px;
 }
