@@ -7,6 +7,7 @@
             new Route('about', 'about.html'),
             new Route('choose-character', 'choose-character.html'),
             new Route('story-one-result', 'story-one-result.html'),
+            new Route('story-three-result', 'story-three-result.html'),
             new Route('story-one', 'story-one.html'),
             new Route('story-two', 'story-two.html'),
             new Route('story-three', 'story-three.html'),
