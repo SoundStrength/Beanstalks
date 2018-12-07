@@ -97,7 +97,7 @@
 
 .minorBack {
   height: 100%;
-  min-height: 100vh;
+  min-height: 110vh;
   background-image: 	url("../images/background-minor.png");
   font-family: 'VT323', monospace;
   padding-bottom: 60px;
