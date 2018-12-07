@@ -167,7 +167,7 @@ a:hover {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .button-max {
   width: 100%;
-  padding: 50px 50px 30px 50px!important;
+  padding: 50px!important;
   border: 5px solid #444!important;
   border-radius: 30px!important;
 }
