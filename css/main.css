@@ -47,7 +47,7 @@
   /* Style the active link (or home/logo) */
   .active {
     background-color: #3d0099;
-    background-image: linear-gradient(to right, #3d0099, #b380ff);
+    background-image: linear-gradient(to right, #355a7e, #6a97c1);
     color: white;
   }
 
