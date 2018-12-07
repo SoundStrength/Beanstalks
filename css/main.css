@@ -104,11 +104,14 @@
 }
 
 .story1Back {
-  height: 1000px;
-  min-height: 130vh;
-  background-image: 	url("../images/story1.png");
   font-family: 'VT323', monospace;
   padding-bottom: 60px;
+  background: url(../images/story1.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }
 
 b {
